@@ -1,2 +1,2 @@
-# Realization-of-MNIST-handwritten-digit-recognition-based-on-Pytorch-and-Opencv
+# MNISTt-recognition
 Just for a small competition of AI in college
